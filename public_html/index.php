@@ -1,15 +1,5 @@
 <?php
 
-// Exibindo todos os erros e warnings para facilitar a identificação de erros
-ini_set('display_errors', true);
-error_reporting(E_ALL);
-
-/*
-180113 - Tela de Login PageAdmin
-	Criado Rota get /admin/login/	 
-	Criado Rota post /admin/login/    
-*/
-
 require_once('vendor/autoload.php');
 
 use \Slim\Slim;
