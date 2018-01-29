@@ -1,9 +1,4 @@
 <?php 
-
-/* 180113 - Criando Tela Login 
-	Configurado como $defaults o header e footer como true
-	Configurado a verificação de entrada de header: 'if ($this->options["header"] === true) $this->tpl->draw("header")' e footer: 'if ($this->options["footer"] === true) $this->tpl->draw("footer")'*/
-
 namespace Hcode;
 
 use Rain\Tpl;
