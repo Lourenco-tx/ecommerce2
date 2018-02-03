@@ -47,3 +47,8 @@ git push origin master
 git add public_html/
 git commit -m "Teste 180201"
 git push origin master
+git add --all
+git commit -m "Paginação"
+git push origin master
+git add public_html/
+git commit -m "Paginação Eccommerce"
